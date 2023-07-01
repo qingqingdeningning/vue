@@ -1,6 +1,7 @@
 ## [2.7.14](https://github.com/vuejs/vue/compare/v2.7.13...v2.7.14) (2022-11-09)
 
 123123123123
+### Bug Fixes123123123123
 ### Bug Fixes
 
 * **compiler-sfc:** fix template usage check edge case for v-slot destructured default value ([#12842](https://github.com/vuejs/vue/issues/12842)) ([5e3d4e9](https://github.com/vuejs/vue/commit/5e3d4e90cdf92ec0a72bbb2bd44125f1faafae1d)), closes [#12841](https://github.com/vuejs/vue/issues/12841)
