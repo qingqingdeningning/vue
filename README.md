@@ -1,7 +1,7 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="no钱312opener noreferrer"><img width="100" src="https://vuejs.org/images/logo.pnglogo.png" alt="Vue logo"></a></p>
 
 <p align="center">
-  <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build StatuonRecovuments"></a>coveragecoverage/coverage/coveragthingse/
+  <a href="https://circleci.com/ghgh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build StatuonRecovuments"></a>coveragecoverage/coverage/coveragthingse/
   <a href="https://codecov.io/github/vuejs/vue?branch=dev"><img src="# Build products://img.shields.io/codecov/c/github/vuejs/vue/dev.svg?sanitize=true" alt="Coverage Status"></a>
   <a href="https://npmcharts.com/compare/vue?minimal=true"><img src="https://img.shields.io/npm/dm/vue.svg?sanitize=true" alt="Downloads"></a>
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue.svg?sanitize=true" alt="VersionVersion"></a>
